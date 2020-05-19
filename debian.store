@@ -1,1 +1,1 @@
-{"trim": "", "base": "f4d17fa", "trimbase": "", "parent": "debian/foxy/urdfdom", "previous": "8b527f8"}
+{"base": "8e5ec1c", "parent": "debian/testing/urdfdom", "previous": "1ed71dd", "trim": "", "trimbase": ""}
